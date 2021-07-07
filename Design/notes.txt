@@ -1,0 +1,23 @@
+TOURNAMENT PREDICTOR
+
+Project vision
+	- A program that can ingest information about a tournament and make relevant predictions 
+	of possible outcomes. 
+	- The default output could be top 5 possible outcomes 
+	- Random outcome option
+	
+Architecture plan??
+	- Data ingestion engine
+	- Decision structure
+	- Command line interface?
+		- create API
+	- database storage
+
+Software Stack
+	- GitHub - Source Control - https://github.com/calvinhathcock
+	- Java
+	
+Data
+	- https://www.kaggle.com/andrewsundberg/college-basketball-dataset
+		
+	
